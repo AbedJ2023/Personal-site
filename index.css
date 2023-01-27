@@ -1,0 +1,19 @@
+.footer {
+  background-color: bisque;
+  position: fixed;
+  height: 75px;
+  padding: 16px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  /* position: fixed; */
+}
+.quote {
+  font-family: "Satisfy", cursive;
+  font-weight: 100;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 2em;
+}

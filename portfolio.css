@@ -1,0 +1,22 @@
+section {
+  border-top: 1px solid black;
+}
+.tic-picture {
+  float: left;
+  width: 200px;
+  margin: 0 24px 24px 0;
+}
+.basketball-picture {
+  float: right;
+  width: 200px;
+  height: 180px;
+  margin: 0 24px 24px 0;
+}
+
+.menu-picture {
+  float: left;
+  width: 200px;
+  height: 180px;
+  margin: 0 24px 24px 0;
+  display: ;
+}

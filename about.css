@@ -1,0 +1,21 @@
+section {
+  border-top: 1px solid black;
+}
+.web-picture {
+  float: left;
+  width: 200px;
+  margin: 0 24px 24px 0;
+}
+
+.workout-picture {
+  float: right;
+  height: 130px;
+  width: 200px;
+  margin: 0 24px 24px 0;
+}
+
+.photo-picture {
+  float: left;
+  width: 200;
+  margin: 0 24px 24px 0;
+}
